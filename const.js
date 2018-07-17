@@ -1,5 +1,5 @@
 // Object properties
-const a = 'test';
+
 const b ='github'
 
 debugger;
